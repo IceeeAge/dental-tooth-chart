@@ -33,3 +33,9 @@ To clone the repository, use the following command:
 
 ```sh
 git clone https://github.com/yourusername/your-repo.git
+
+
+Sample Demo
+Here is a sample demo of the app:
+
+Replace path/to/your/demo.gif with the actual path to your demo file.

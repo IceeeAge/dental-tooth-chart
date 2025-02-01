@@ -1,6 +1,8 @@
 # Dental Chart Tooth 
 
-Welcome to Dental Chart Tooth! This is a brief guide on how to install and clone this application.
+Welcome to Dental Chart Tooth! This guide will help you install and set up the app, built with Expo and React Native.
+
+The app lets dental professionals chart and color tooth conditions easily. You can clone this repository and follow the steps here to get it running on your machine.
 
 ## Table of Contents
 - [Installation](#installation)

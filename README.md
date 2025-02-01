@@ -1,11 +1,11 @@
-# My App
+# Dental Chart Tooth 
 
-Welcome to My App! This is a brief guide on how to install and clone this application.
+Welcome to Dental Chart Tooth! This is a brief guide on how to install and clone this application.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Cloning the Repository](#cloning-the-repository)
-- [Sample Image](#sample-image)
+- [demo](#demo)
 
 ## Installation
 

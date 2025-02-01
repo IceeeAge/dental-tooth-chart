@@ -37,5 +37,5 @@ git clone https://github.com/yourusername/your-repo.git
 
 Sample Demo
 Here is a sample demo of the app:
-[Watch Demo Video](./assets/demo/)
+https://github.com/user-attachments/assets/18379c1f-73ce-497c-a9f5-8c41d9582dd0
 
